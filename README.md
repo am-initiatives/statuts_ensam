@@ -1,5 +1,7 @@
 Ce dépôt entrepose une copie des statuts de l'École nationale supérieure d'arts et métiers, et son historique. Le principal but de cette initiative est d'aider à visualiser les changements apportés par le décret du 11 juillet 2016.
 
+Les statuts (`statuts-ensam.md`) ont été rédigés à partir des décrets en ne gardant que les articles non-transitoires.
+
 ## Sources
 
 **Texte original:** Décret 2012-1223, pris sur legifrance.gouv.fr
