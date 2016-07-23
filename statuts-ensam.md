@@ -24,7 +24,7 @@ Dans les mêmes domaines, l'ENSAM a également pour mission :
 
 ## Article 4
 
-L'ENSAM est dirigée par un directeur général assisté de directeurs généraux adjoints et d'un comité de direction. Elle est administrée par un conseil d'administration assisté d'un conseil scientifique et d'un conseil des études et de la vie à l'école.
+L'ENSAM est dirigée par un directeur général assisté de directeurs généraux adjoints et d'un comité de direction. Elle est administrée par un conseil d'administration assisté d'un conseil scientifique, d'un conseil des études et de la vie à l'école et d'un conseil territorial.
 Elle est composée de centres d'enseignement et de recherche. Elle comprend en outre des départements, des unités de recherche et des services communs.
 
 ## Article 5
@@ -44,10 +44,9 @@ Le directeur général peut déléguer sa signature au secrétaire général, au
 ## Article 7
 
 Le conseil d'administration comprend :
-1° Des membres de droit :
-A. - Les présidents des conseils de centre d'enseignement et de recherche ou leurs représentants.
-B. - Le président de la Société des ingénieurs arts et métiers.
-C. - Le président de la Fondation arts et métiers.
+1° Deux membres de droit :
+A. - Le président de la Société des ingénieurs arts et métiers, ou son représentant ;
+B. - Le président de la Fondation arts et métiers, ou son représentant.
 2° Des membres élus répartis comme suit :
 A. - Neuf représentants des personnels enseignants, enseignants-chercheurs et chercheurs, répartis dans les trois collèges ci-dessous :
 a) Quatre représentants du collège des professeurs des universités et personnels assimilés au sens de l'article 3 du décret du 18 janvier 1985 susvisé ;
@@ -55,14 +54,22 @@ b) Trois représentants du collège des maîtres de conférences et personnels a
 c) Deux représentants du collège des autres personnels enseignants.
 La répartition des sièges entre ces trois collèges peut être modifiée par arrêté du ministre chargé de l'enseignement supérieur en fonction de l'évolution des effectifs des personnels qui les composent.
 B. - Trois représentants des personnels ingénieurs, administratifs, techniques, ouvriers et de service.
-C. - Six représentants des usagers.
-3° Cinq personnalités qualifiées extérieures à l'établissement, françaises ou étrangères, choisies en raison de leur compétence dans les domaines définis à l'article 3, désignées, sur proposition du directeur général, par les autres membres du conseil d'administration.
+C. - Trois représentants des élèves qui préparent le titre d'ingénieur par la voie universitaire au sens de l'article L. 335-5 du code de l'éducation ;
+D. - Un représentant des doctorants ;
+E. - Deux représentants des autres usagers.
+3° Dix personnalités extérieures à l'établissement, désignées dans les conditions prévues par les articles L. 719-3, D. 719-47-1 à D. 719-47-4 du code de l'éducation comme suit :
+A. - Une par un organisme de recherche ;
+B. - Deux par un établissement d'enseignement supérieur dont un établissement étranger ;
+C. - Une par une entreprise employant au moins cinq cents salariés ;
+D. - Six personnalités qualifiées françaises ou étrangères, choisies en raison de leur compétence dans les domaines définis à l'article 3.
+Les organismes, établissements et entreprises mentionnés aux A, B et C et les personnalités qualifiées mentionnées au D sont désignés, après avis des membres élus du conseil, sur proposition du directeur général, par le ministre chargé de l'enseignement supérieur.
 Le directeur général assiste au conseil d'administration.
-Le conseil d'administration élit en son sein pour une durée de cinq ans un président choisi parmi les membres mentionnés au 3°. Il élit également un vice-président choisi parmi les membres mentionnés au 1° ou au 3°. Les modalités de ces élections sont fixées par le règlement intérieur.
+Le conseil d'administration élit en son sein pour une durée de cinq ans un président choisi parmi les membres mentionnés au 3°. Il élit également un vice-président choisi parmi les membres mentionnés au A et au B du 2°. Les modalités de ces élections sont fixées par le règlement intérieur.
 
 ## Article 8
 
 Le conseil d'administration exerce les attributions confiées au conseil d'administration des universités par l'article L. 712-3 du code de l'éducation. Il peut déléguer certaines de ses compétences au directeur général dans les conditions fixées par cet article.
+Dans le respect des dispositions statutaires applicables aux enseignants-chercheurs, le conseil d'administration en formation restreinte aux enseignants-chercheurs se réunit comme organe compétent, au sens de l'article L. 952-6 du code de l'éducation, pour l'examen des questions individuelles relatives au recrutement, à l'affectation et à la carrière des enseignants-chercheurs. Il délibère sur l'intégration des fonctionnaires des autres corps dans le corps des enseignants-chercheurs et sur le recrutement ou le renouvellement des attachés temporaires d'enseignement et de recherche.
 
 ## Article 9
 
@@ -94,7 +101,14 @@ D. - Le président de la Société des ingénieurs arts et métiers.
 
 ## Article 12
 
-Le conseil des études et de la vie à l'école exerce les attributions confiées aux conseils des études et de la vie universitaire des universités par l'article L. 712-6 du code de l'éducation.
+Le conseil des études et de la vie à l'école exerce les attributions confiées aux conseils des études et de la vie à l'école des universités par l'article L. 712-6 du code de l'éducation.
+
+## Article 12-1.
+
+Le conseil territorial donne des avis sur la politique territoriale, sur les implantations des activités scientifiques et pédagogiques et sur les relations structurelles avec les partenaires locaux.
+Le conseil territorial comprend, outre le directeur général qui le préside, les présidents des conseils de centre d'enseignement et de recherche et leurs directeurs, ou leurs représentants, ainsi qu'un représentant de chaque région dans laquelle est implanté un centre.
+Il peut être consulté par le directeur général, ou le conseil d'administration de l'école.
+Le directeur général présente les travaux du conseil territorial au conseil d'administration au moins une fois par an.
 
 ## Article 13
 
@@ -115,7 +129,7 @@ A ce titre :
 Le conseil de chaque centre d'enseignement et de recherche est composé au maximum de seize membres comprenant, en nombre égal, des représentants élus et des personnalités extérieures.
 Les représentants élus comprennent au moins 30 % d'enseignants-chercheurs, auxquels s'ajoutent des représentants d'autres personnels enseignants, des personnels ingénieurs, administratifs, techniques, ouvriers et de service et des usagers.
 Les personnalités extérieures sont désignées, sur proposition du directeur de centre, par les membres élus du conseil.
-Le conseil de centre élit son président parmi les personnalités extérieures.
+Le conseil de centre élit son président parmi les personnalités extérieures et son vice-président parmi les représentants élus des personnels.
 Les modalités de ces désignations sont fixées par le règlement intérieur de l'établissement.
 
 ## Article 16
